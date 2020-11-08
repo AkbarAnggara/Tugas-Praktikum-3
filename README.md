@@ -26,7 +26,7 @@ Keterangan:
  - Saya menggunakan random.uniform untuk mencari nilai yang lebih kecil dari 0,5
  - Untuk a+=1 itu saya gunakan agar angka yang muncul dari tulisan datanya berbeda - beda
  
-Maka ouput dari syntax di atas adalah
+Maka hasil run dari syntax di atas adalah
 
 ![hasil_latihan1.PNG](Pic/hasil_latihan1.PNG)
 
@@ -86,7 +86,7 @@ Itu karena pada bulan kedelapan saya mengkalikannya denga laba yang 3%, jika ing
         e=a*0.02
         print("Laba bulan ke-",s,":",e)
 
-Maka hasil run akan sama seperti di modul seperti gambar di bawah ini
+Maka hasil run akan sama seperti di modul seperti contoh gambar di bawah ini
 
 ![hasil_latihan3_2.PNG](Pic/hasil_latihan3_2.PNG)
 
