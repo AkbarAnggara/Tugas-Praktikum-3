@@ -13,7 +13,7 @@ for s in range(1,9):
         print("Laba bulan ke-",s,":",d)
 
     if(s==8):
-        e=a*0.03
+        e=a*0.02
         print("Laba bulan ke-",s,":",e)
 
 total=b+b+c+c+d+d+d+e
