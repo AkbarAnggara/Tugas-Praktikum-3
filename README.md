@@ -17,7 +17,7 @@ Daftar Isi
 | 3 | Tugas 3 | [Click Here](#Tugas-3)
 
 # Tugas 1
-Berikut ini adalah tugas 1 -praktikum 3:
+Berikut ini adalah tugas 1 - praktikum 3:
 
 ![tugas_latihan1.PNG](Pic/tugas_latihan1.PNG)
 
@@ -86,7 +86,7 @@ Maka jika kita run hasil dari syntax di atas adalah sebagai berikut
 
 Kenapa hasilnya tidak sesuai modul??
 
-Itu karena pada bulan kedelapan saya mengkalikannya denga laba yang 3%, jika ingin hasilnya sama dengan yang di modul maka kalian tulis seperti ini
+Itu karena pada bulan kedelapan saya mengkalikannya dengan laba yang 3%, jika ingin hasilnya sama dengan yang di modul maka kalian tulis seperti ini
       
       if(s==8):
         e=a*0.02
