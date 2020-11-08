@@ -10,6 +10,14 @@ Kelas : TI.20.B.1
 
 Selain tugas praktikum 2 pada pertemuan 7 saya di beri tugas ke-3, yaitu :
 
+Daftar Isi 
+
+| No | Description | Link
+| --- | ---- | ----
+| 1 | Tugas 1 | [Click Here](#Tugas-1)
+| 2 | Tugas 2 | [Click Here](#Tugas-2)
+| 3 | Tugas 3 | [Click Here](#Tugas-3)
+
 # Tugas 1
 Berikut ini adalah tugas 1 -praktikum 3:
 
